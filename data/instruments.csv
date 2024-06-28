@@ -1,0 +1,1580 @@
+﻿Tagname,Class,System,Loop_Sequence,Function_Code,Drawing_No,RapidOCR_Text,TesseractOCR_Text,Raw_Text
+AO-0116-44,INSTRUMENT,44,0116,AO,img_0_grid_5_det_3.png,Ey 0116 13,"EY
+
+ov 6
+
+AO
+
+3","Ey 0116 13 EY
+
+ov 6
+
+AO
+
+3"
+AS-0116-44,INSTRUMENT,44,0116,AS,img_0_grid_5_det_4.png,Ey 0116 13,"fe
+
+AS","Ey 0116 13 fe
+
+AS"
+BI-0110-16,INSTRUMENT,16,0110,BI,img_0_grid_10_det_9.png,P1 0110 16,"| | BI
+
+0110
+
+=
+
+18","P1 0110 16 | | BI
+
+0110
+
+=
+
+18"
+DI-0110-44,INSTRUMENT,44,0110,DI,img_0_grid_10_det_3.png,DI 0110,"|
+
+Vid
+
+|“","DI 0110 |
+
+Vid
+
+|“"
+EL-0113-44,INSTRUMENT,44,0113,EL,img_0_grid_9_det_2.png,EL 0113 GL,"EV
+
+a
+
+3)","EL 0113 GL EV
+
+a
+
+3)"
+EL-0113-44,INSTRUMENT,44,0113,EL,img_0_grid_9_det_1.png,EL 0113 $L,"(
+
+lA
+
+A
+
+3)","EL 0113 $L (
+
+lA
+
+A
+
+3)"
+EV-0110A-13,INSTRUMENT,13,0110A,EV,img_0_grid_7_det_0.png,EV 0110A 13,"LV
+
+OTI0A |
+
+13","EV 0110A 13 LV
+
+OTI0A |
+
+13"
+EV-0110A-13,INSTRUMENT,13,0110A,EV,img_0_grid_7_det_2.png,EV 0110A 13,"ee
+
+| |
+
+EV
+
+O110A
+
+13","EV 0110A 13 ee
+
+| |
+
+EV
+
+O110A
+
+13"
+EV-0110A-44,INSTRUMENT,44,0110A,EV,img_0_grid_7_det_1.png,EV 0110A 13,"LJ iH
+
+(i
+
+OTIOA
+
+|3","EV 0110A 13 LJ iH
+
+(i
+
+OTIOA
+
+|3"
+EV-0110B-13,INSTRUMENT,13,0110B,EV,img_0_grid_10_det_6.png,EV 0110B 13,"EV
+
+0110B
+
+13","EV 0110B 13 EV
+
+0110B
+
+13"
+EV-0110B-13,INSTRUMENT,13,0110B,EV,img_0_grid_10_det_8.png,EV 0110B 13,"EV
+
+0110B
+
+13","EV 0110B 13 EV
+
+0110B
+
+13"
+EV-0110B-44,INSTRUMENT,44,0110B,EV,img_0_grid_10_det_9.png,EV 0110B 13,"CV
+
+OT10B
+
+i)","EV 0110B 13 CV
+
+OT10B
+
+i)"
+EV-0114-13,INSTRUMENT,13,0114,EV,img_0_grid_7_det_0.png,EV 0114 13,"lt
+
+(rt
+
+ey
+
+111
+
+& 13 Af","EV 0114 13 lt
+
+(rt
+
+ey
+
+111
+
+& 13 Af"
+EV-0114-44,INSTRUMENT,44,0114,EV,img_0_grid_7_det_1.png,EV 0114 18,EY,EV 0114 18 EY
+EV-0115-13,INSTRUMENT,13,0115,EV,img_0_grid_9_det_4.png,EV 0115 13,"cV
+
+0115
+
+13","EV 0115 13 cV
+
+0115
+
+13"
+EV-0115-13,INSTRUMENT,13,0115,EV,img_0_grid_9_det_4.png,EV 0115 13,"|
+
+Py
+
+115
+
+13","EV 0115 13 |
+
+Py
+
+115
+
+13"
+EV-0115-13,INSTRUMENT,13,0115,EV,img_0_grid_9_det_4.png,EV 0115 13,"ry
+
+1
+
+13
+
+=)","EV 0115 13 ry
+
+1
+
+13
+
+=)"
+FCV-1110-44,INSTRUMENT,44,1110,FCV,img_0_grid_10_det_0.png,FCV 1110 42,"Se
+
+FCY
+
+iT
+
+L7","FCV 1110 42 Se
+
+FCY
+
+iT
+
+L7"
+FCV-1110-44,INSTRUMENT,44,1110,FCV,img_0_grid_10_det_0.png,FCV 1110 42,"FCV
+
+T1710
+
+L2","FCV 1110 42 FCV
+
+T1710
+
+L2"
+FCV-1110-72,INSTRUMENT,72,1110,FCV,img_0_grid_10_det_0.png,FCV 1110 42,"PCY
+
+110
+
+[72","FCV 1110 42 PCY
+
+110
+
+[72"
+FI-2111-42,INSTRUMENT,42,2111,FI,img_0_grid_10_det_1.png,FI 2111 42,"(EY
+
+2
+
+1
+
+iT
+
+Lar)","FI 2111 42 (EY
+
+2
+
+1
+
+iT
+
+Lar)"
+FI-2111-42,INSTRUMENT,42,2111,FI,img_0_grid_10_det_2.png,FI 2111 42,"(a
+
+d
+
+1
+
+1
+
+a)","FI 2111 42 (a
+
+d
+
+1
+
+1
+
+a)"
+FI-2111-44,INSTRUMENT,44,2111,FI,img_0_grid_10_det_2.png,FI 2111 42,"f/ Fil \
+
+d
+
+1
+
+1
+
+a)","FI 2111 42 f/ Fil \
+
+d
+
+1
+
+1
+
+a)"
+FIC-0111-10,INSTRUMENT,10,0111,FIC,img_0_grid_14_det_2.png,FIC 0111 10,"|| FIC
+
+|e
+
+i8
+
+_","FIC 0111 10 || FIC
+
+|e
+
+i8
+
+_"
+FIC-0111-18,INSTRUMENT,18,0111,FIC,img_0_grid_14_det_2.png,FIC 0111 16,"Plt
+
+U
+
+111
+
+=
+
+3 | 18 :","FIC 0111 16 Plt
+
+U
+
+111
+
+=
+
+3 | 18 :"
+FIQ-0111-44,INSTRUMENT,44,0111,FIQ,img_0_grid_14_det_3.png,FIQ 0111 16,"ee
+
+“lotr","FIQ 0111 16 ee
+
+“lotr"
+FIT-0113-13,INSTRUMENT,13,0113,FIT,img_0_grid_6_det_1.png,FIT 0113 13,"A
+
+-lT
+
+OT
+
+13 #","FIT 0113 13 A
+
+-lT
+
+OT
+
+13 #"
+FIT-0113-13,INSTRUMENT,13,0113,FIT,img_0_grid_6_det_3.png,FIT 0113 13,"Il
+
+UTE
+
+13 2","FIT 0113 13 Il
+
+UTE
+
+13 2"
+FIT-0113-13,INSTRUMENT,13,0113,FIT,img_0_grid_6_det_1.png,FIT 0113 13,(ae,FIT 0113 13 (ae
+FIT-0113-13,INSTRUMENT,13,0113,FIT,img_0_grid_6_det_1.png,FIT 0113 13,#NAME?,"FIT 0113 13 = PM
+
+a"
+FT-0111-44,INSTRUMENT,44,0111,FT,img_0_grid_14_det_1.png,FT 0111 16,"rl
+
+O11 -
+
+Is 4","FT 0111 16 rl
+
+O11 -
+
+Is 4"
+FT-0111-44,INSTRUMENT,44,0111,FT,img_0_grid_14_det_1.png,FT 0111 16,"Ln
+
+-
+
+ey
+
+O11 Pp","FT 0111 16 Ln
+
+-
+
+ey
+
+O11 Pp"
+GOTT-0111-16,INSTRUMENT,16,0111,GOTT,img_0_grid_14_det_0.png,5. 0111 16,"ry
+
+GOTT
+
+16","5. 0111 16 ry
+
+GOTT
+
+16"
+GT-0111-14,INSTRUMENT,14,0111,GT,img_0_grid_14_det_0.png,0111 16,"rh
+
+GT 14
+
+16","0111 16 rh
+
+GT 14
+
+16"
+HI-0112-19,INSTRUMENT,19,0112,HI,img_0_grid_8_det_4.png,HI't 0112 15,"oun |.
+
+19","HI't 0112 15 oun |.
+
+19"
+HT-0112-15,INSTRUMENT,15,0112,HT,img_0_grid_8_det_0.png,HT 0112 15,(ny,HT 0112 15 (ny
+HZ-0113-43,INSTRUMENT,43,0113,HZ,img_0_grid_9_det_6.png,HZ X 0113 13,"re &h
+
+V1
+
+=| 43","HZ X 0113 13 re &h
+
+V1
+
+=| 43"
+HZ-0113-43,INSTRUMENT,43,0113,HZ,img_0_grid_9_det_6.png,HZ 0113 13,"Ae A
+
+OVI
+
+=| 43","HZ 0113 13 Ae A
+
+OVI
+
+=| 43"
+HZ-0113-43,INSTRUMENT,43,0113,HZ,img_0_grid_9_det_5.png,HZ X 0113 13,"__| ex
+
+| O443
+
+=) 43","HZ X 0113 13 __| ex
+
+| O443
+
+=) 43"
+HZ-0117-15,INSTRUMENT,15,0117,HZ,img_0_grid_9_det_5.png,HZ. 0117 15,"| Hex
+
+Oi
+
+1d","HZ. 0117 15 | Hex
+
+Oi
+
+1d"
+HZ-0117-18,INSTRUMENT,18,0117,HZ,img_0_grid_9_det_5.png,HZ 0117 15,"riZ, A
+
+1 ¢
+
+18","HZ 0117 15 riZ, A
+
+1 ¢
+
+18"
+HZ-0117-44,INSTRUMENT,44,0117,HZ,img_0_grid_9_det_3.png,HZ 0117 15,"HZV
+
+oe
+
+Cc","HZ 0117 15 HZV
+
+oe
+
+Cc"
+HZT-0117-44,INSTRUMENT,44,0117,HZT,img_0_grid_9_det_6.png,HZT 0117 15,"rs ee ee
+
+el","HZT 0117 15 rs ee ee
+
+el"
+HZX-0111-13,INSTRUMENT,13,0111,HZX,img_0_grid_7_det_4.png,HZX 0111 13,"| uex
+
+yj is
+
+| oii","HZX 0111 13 | uex
+
+yj is
+
+| oii"
+HZX-0112-13,INSTRUMENT,13,0112,HZX,img_0_grid_5_det_5.png,HZX 0112 13,"|
+
+ried
+
+i 12
+
+ae
+
+|
+
+13","HZX 0112 13 |
+
+ried
+
+i 12
+
+ae
+
+|
+
+13"
+HZX-0112-13,INSTRUMENT,13,0112,HZX,img_0_grid_5_det_5.png,HZX 0112 13 Lnn,"|
+
+PLLA
+
+ri} 12
+
+=
+
+|
+
+13","HZX 0112 13 Lnn |
+
+PLLA
+
+ri} 12
+
+=
+
+|
+
+13"
+HZX-0116-13,INSTRUMENT,13,0116,HZX,img_0_grid_5_det_6.png,HZX 0116 13,"| Hz
+
+i
+
+Ui1s
+
+13","HZX 0116 13 | Hz
+
+i
+
+Ui1s
+
+13"
+HZX-0116-13,INSTRUMENT,13,0116,HZX,img_0_grid_5_det_6.png,HZX 0116 13,"ZH
+
+116
+
+13
+
+———— SS SF. ————i/","HZX 0116 13 ZH
+
+116
+
+13
+
+———— SS SF. ————i/"
+MA-0113-13,INSTRUMENT,13,0113,MA,img_0_grid_9_det_1.png,E' 0113 13,"— —
+
+ty
+
+le
+
+MA
+
+3)","E' 0113 13 — —
+
+ty
+
+le
+
+MA
+
+3)"
+PI-0110-16,INSTRUMENT,16,0110,PI,img_0_grid_10_det_6.png,PI 0110 16,,PI 0110 16 
+PI-0110-16,INSTRUMENT,16,0110,PI,img_0_grid_10_det_6.png,PI 0110 16,"| Bl
+
+| 0110
+
+| |) 1","PI 0110 16 | Bl
+
+| 0110
+
+| |) 1"
+PI-0111-13,INSTRUMENT,13,0111,PI,img_0_grid_11_det_1.png,PI 0111 13,"a)
+
+O1ft |
+
+13 4","PI 0111 13 a)
+
+O1ft |
+
+13 4"
+PI-0116-44,INSTRUMENT,44,0116,PI,img_0_grid_10_det_3.png,PI 0116,"|
+
+Ui
+
+|“","PI 0116 |
+
+Ui
+
+|“"
+PI-1115-13,INSTRUMENT,13,1115,PI,img_0_grid_6_det_0.png,PI 1115 13,"|
+
+1115
+
+13","PI 1115 13 |
+
+1115
+
+13"
+PI-1115-13,INSTRUMENT,13,1115,PI,img_0_grid_6_det_0.png,PI 1115 13,"|
+
+11715
+
+13","PI 1115 13 |
+
+11715
+
+13"
+PI-1115-13,INSTRUMENT,13,1115,PI,img_0_grid_6_det_0.png,PI 1115 13,"|
+
+118
+
+«
+
+13","PI 1115 13 |
+
+118
+
+«
+
+13"
+PIT-0112-16,INSTRUMENT,16,0112,PIT,img_0_grid_10_det_10.png,PIT 0112 16,"PIT
+
+0112
+
+16","PIT 0112 16 PIT
+
+0112
+
+16"
+PIT-0112-16,INSTRUMENT,16,0112,PIT,img_0_grid_10_det_10.png,PIT 0112 16,"_/
+
+PIT
+
+(
+
+0112
+
+16","PIT 0112 16 _/
+
+PIT
+
+(
+
+0112
+
+16"
+PIT-0112-16,INSTRUMENT,16,0112,PIT,img_0_grid_10_det_10.png,PIT 0112 16,"_/
+
+PIT
+
+(
+
+0112
+
+16","PIT 0112 16 _/
+
+PIT
+
+(
+
+0112
+
+16"
+PIT-0112-16,INSTRUMENT,16,0112,PIT,img_0_grid_10_det_10.png,PIT 0112 16,"PIT
+
+XN
+
+0112
+
+16","PIT 0112 16 PIT
+
+XN
+
+0112
+
+16"
+PT-0110-16,INSTRUMENT,16,0110,PT,img_0_grid_10_det_5.png,PT 0110 16,"PT
+
+iio t
+
+% 16","PT 0110 16 PT
+
+iio t
+
+% 16"
+PT-0110-16,INSTRUMENT,16,0110,PT,img_0_grid_10_det_4.png,PT 0110 16,@),PT 0110 16 @)
+PT-0117-13,INSTRUMENT,13,0117,PT,img_0_grid_9_det_3.png,PT 0117 15,"id |
+
+Wil
+
+13","PT 0117 15 id |
+
+Wil
+
+13"
+PT-0117-44,INSTRUMENT,44,0117,PT,img_0_grid_11_det_0.png,PT 0117 d 13,"Py
+
+OVs","PT 0117 d 13 Py
+
+OVs"
+PT-0117-44,INSTRUMENT,44,0117,PT,img_0_grid_11_det_0.png,PT 0117 13,"ry
+
+OT","PT 0117 13 ry
+
+OT"
+PT-0117-44,INSTRUMENT,44,0117,PT,img_0_grid_11_det_0.png,PT 0117 d 13,"ry
+
+OT","PT 0117 d 13 ry
+
+OT"
+PZI-0114-44,INSTRUMENT,44,0114,PZI,img_0_grid_5_det_7.png,PZI 0114 nunu,"Pe
+
+— |o
+
+114 |
+
+""is f","PZI 0114 nunu Pe
+
+— |o
+
+114 |
+
+""is f"
+PZI-0114-44,INSTRUMENT,44,0114,PZI,img_0_grid_5_det_7.png,PZI 0114 13,"Pe
+
+io
+
+114 fs
+
+Lane D> OOF
+
+is f","PZI 0114 13 Pe
+
+io
+
+114 fs
+
+Lane D> OOF
+
+is f"
+PZT-0112-15,INSTRUMENT,15,0112,PZT,img_0_grid_8_det_2.png,PZT 9113,"FP
+
+Bz
+
+qT
+
+Ch
+
+0112 |
+
+io
+
+(
+
+15 4","PZT 9113 FP
+
+Bz
+
+qT
+
+Ch
+
+0112 |
+
+io
+
+(
+
+15 4"
+PZT-0113-15,INSTRUMENT,15,0113,PZT,img_0_grid_8_det_2.png,PZT 0113 15,"P
+
+qT
+
+Eh
+
+017123 |
+
+C
+
+15 4","PZT 0113 15 P
+
+qT
+
+Eh
+
+017123 |
+
+C
+
+15 4"
+PZT-0113-19,INSTRUMENT,19,0113,PZT,img_0_grid_8_det_2.png,PZT 0113 15,"sai
+
+UT
+
+19","PZT 0113 15 sai
+
+UT
+
+19"
+PZT-0114-14,INSTRUMENT,14,0114,PZT,img_0_grid_5_det_1.png,PZT 0114 13,"f PP
+
+o7 14
+
+1a","PZT 0114 13 f PP
+
+o7 14
+
+1a"
+PZT-0114-44,INSTRUMENT,44,0114,PZT,img_0_grid_5_det_1.png,PZT 0114 13,"md
+
+P|
+
+unis
+
+1a","PZT 0114 13 md
+
+P|
+
+unis
+
+1a"
+PZT-0114-44,INSTRUMENT,44,0114,PZT,img_0_grid_5_det_1.png,PZT 0114 19,"PL]
+
+O14
+
+1d","PZT 0114 19 PL]
+
+O14
+
+1d"
+TI-0114-15,INSTRUMENT,15,0114,TI,img_0_grid_12_det_1.png,TI 0114 15,"TI
+
+114 |
+
+P| 15 |","TI 0114 15 TI
+
+114 |
+
+P| 15 |"
+TI-1112-16,INSTRUMENT,16,1112,TI,img_0_grid_10_det_1.png,TI 1112 16,,TI 1112 16 
+TI-1112-44,INSTRUMENT,44,1112,TI,img_0_grid_10_det_2.png,TI 1112 16,nT,TI 1112 16 nT
+TI-1112-44,INSTRUMENT,44,1112,TI,img_0_grid_10_det_1.png,TI 1112 16,"ql
+
+1
+
+IG
+
+2)","TI 1112 16 ql
+
+1
+
+IG
+
+2)"
+TI-1114-15,INSTRUMENT,15,1114,TI,img_0_grid_9_det_0.png,TI 1114 15,,TI 1114 15 
+TI-1114-15,INSTRUMENT,15,1114,TI,img_0_grid_9_det_2.png,TI 1114 15,"* TI
+
+Vida
+
+15","TI 1114 15 * TI
+
+Vida
+
+15"
+TI-1444-15,INSTRUMENT,15,1444,TI,img_0_grid_9_det_0.png,TI 1444 15,"* TI
+
+1i14
+
+14","TI 1444 15 * TI
+
+1i14
+
+14"
+TT-0114-14,INSTRUMENT,14,0114,TT,img_0_grid_8_det_7.png,TT 0114 15,"LJ OU 2,
+
+U1 14
+
+Vale","TT 0114 15 LJ OU 2,
+
+U1 14
+
+Vale"
+TT-0114-18,INSTRUMENT,18,0114,TT,img_0_grid_8_det_6.png,TT 0114 15,"Tl
+
+114
+
+18","TT 0114 15 Tl
+
+114
+
+18"
+TT-0114-18,INSTRUMENT,18,0114,TT,img_0_grid_8_det_3.png,TT 0114 15,"pee
+
+O14
+
+Td
+
+18","TT 0114 15 pee
+
+O14
+
+Td
+
+18"
+TT-0116-13,INSTRUMENT,13,0116,TT,img_0_grid_10_det_7.png,TT 0116 13,"TT *
+
+O16
+
+13 4","TT 0116 13 TT *
+
+O16
+
+13 4"
+TT-0116-44,INSTRUMENT,44,0116,TT,img_0_grid_10_det_9.png,TT 0116 13,"TT
+
+O16","TT 0116 13 TT
+
+O16"
+TT-0116-44,INSTRUMENT,44,0116,TT,img_0_grid_10_det_5.png,TT 0116 13,"TT
+
+OL 1E
+
+ef","TT 0116 13 TT
+
+OL 1E
+
+ef"
+UT-0117-19,INSTRUMENT,19,0117,UT,img_0_grid_9_det_1.png,T 0117 15,"ce |
+
+UT
+
+19","T 0117 15 ce |
+
+UT
+
+19"
+XN-0112-16,INSTRUMENT,16,0112,XN,img_0_grid_10_det_10.png,PIT 0112 16,"PIT
+
+XN
+
+0112
+
+16","PIT 0112 16 PIT
+
+XN
+
+0112
+
+16"
+XZH-0112-13,INSTRUMENT,13,0112,XZH,img_0_grid_5_det_5.png,XZH 0112 13,"|_| Hex
+
+""13 |","XZH 0112 13 |_| Hex
+
+""13 |"
+,INSTRUMENT,,,,img_0_grid_0_det_0.png,13,"POV
+
+Ja
+
+ort","13 POV
+
+Ja
+
+ort"
+,INSTRUMENT,,,,img_0_grid_0_det_0.png,13,"POV
+
+J ech
+
+ort","13 POV
+
+J ech
+
+ort"
+,INSTRUMENT,,,,img_0_grid_0_det_0.png,P04 14,"POV
+
+‘Jed
+
+or","P04 14 POV
+
+‘Jed
+
+or"
+,INSTRUMENT,,,,img_0_grid_2_det_0.png,PI 011 13,"|
+
+| fot
+
+Cia","PI 011 13 |
+
+| fot
+
+Cia"
+,INSTRUMENT,,,,img_0_grid_2_det_0.png,011 13,"F|
+
+| Fort
+
+Cl 43","011 13 F|
+
+| Fort
+
+Cl 43"
+,INSTRUMENT,,,,img_0_grid_2_det_0.png,P1 011 13,"|
+
+| fot
+
+Cia","P1 011 13 |
+
+| fot
+
+Cia"
+,INSTRUMENT,,,,img_0_grid_3_det_0.png,,,
+,INSTRUMENT,,,,img_0_grid_5_det_0.png,P1 111 1,"P|
+
+111
+
+13","P1 111 1 P|
+
+111
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_2.png,2 0112,"|
+
+O1e
+
+1
+
+(Oj","2 0112 |
+
+O1e
+
+1
+
+(Oj"
+,INSTRUMENT,,,,img_0_grid_5_det_4.png,1119,"|
+
+1V419
+
+13","1119 |
+
+1V419
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_6.png,HZX 0116,"THE
+
+UIT
+
+13","HZX 0116 THE
+
+UIT
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_8.png,,"pe
+
+a:
+
+/"," pe
+
+a:
+
+/"
+,INSTRUMENT,,,,img_0_grid_5_det_0.png,P1 1 1  1 13,me,P1 1 1  1 13 me
+,INSTRUMENT,,,,img_0_grid_5_det_2.png,2 0112 13,"O11
+
+13
+
+Cy","2 0112 13 O11
+
+13
+
+Cy"
+,INSTRUMENT,,,,img_0_grid_5_det_3.png,1119 13,"P|
+
+1V19
+
+13","1119 13 P|
+
+1V19
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_0.png,PI 111 13,"P|
+
+144
+
+13","PI 111 13 P|
+
+144
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_2.png,2 0112,"O11
+
+1d
+
+L_)) |","2 0112 O11
+
+1d
+
+L_)) |"
+,INSTRUMENT,,,,img_0_grid_5_det_3.png,1119 13,"|
+
+1V419
+
+13","1119 13 |
+
+1V419
+
+13"
+,INSTRUMENT,,,,img_0_grid_5_det_4.png,Ey 0116 13,"7
+
+e
+
+i","Ey 0116 13 7
+
+e
+
+i"
+,INSTRUMENT,,,,img_0_grid_6_det_2.png,m,Nn,m Nn
+,INSTRUMENT,,,,img_0_grid_6_det_4.png,830,"1 ' |
+
+d
+
+Frog Po Me
+
+fezeecely","830 1 ' |
+
+d
+
+Frog Po Me
+
+fezeecely"
+,INSTRUMENT,,,,img_0_grid_6_det_2.png,mr,},mr }
+,INSTRUMENT,,,,img_0_grid_6_det_3.png,330 TL,Fadh ro fh,330 TL Fadh ro fh
+,INSTRUMENT,,,,img_0_grid_6_det_2.png,mr,Ty,mr Ty
+,INSTRUMENT,,,,img_0_grid_7_det_2.png,H 118,"Hy *
+
+O18
+
+134","H 118 Hy *
+
+O18
+
+134"
+,INSTRUMENT,,,,img_0_grid_7_det_3.png,AH 店,"f HY *
+
+O11?
+
+—","AH 店 f HY *
+
+O11?
+
+—"
+,INSTRUMENT,,,,img_0_grid_7_det_0.png,EV 01[4 13,% 13 2,EV 01[4 13 % 13 2
+,INSTRUMENT,,,,img_0_grid_7_det_2.png,Ht,"i
+
+Hy
+
+Vit
+
+“oe
+
+134","Ht i
+
+Hy
+
+Vit
+
+“oe
+
+134"
+,INSTRUMENT,,,,img_0_grid_7_det_3.png,Hy 7 T,"A uy *
+
+OT?
+
+~ 1s","Hy 7 T A uy *
+
+OT?
+
+~ 1s"
+,INSTRUMENT,,,,img_0_grid_7_det_4.png,HZ减 0114 13,"mie
+
+4 4
+
+1d
+
+a","HZ减 0114 13 mie
+
+4 4
+
+1d
+
+a"
+,INSTRUMENT,,,,img_0_grid_7_det_1.png,H 118,"Hy *
+
+oiie
+
+137","H 118 Hy *
+
+oiie
+
+137"
+,INSTRUMENT,,,,img_0_grid_7_det_3.png,HY 417,"ny
+
+—
+
+. ON?
+
+~ 1S","HY 417 ny
+
+—
+
+. ON?
+
+~ 1S"
+,INSTRUMENT,,,,img_0_grid_8_det_0.png,H 0112 15,"Ty
+
+dl oit2","H 0112 15 Ty
+
+dl oit2"
+,INSTRUMENT,,,,img_0_grid_8_det_1.png,PZT 14 15,,PZT 14 15 
+,INSTRUMENT,,,,img_0_grid_8_det_3.png,P 4 5,,P 4 5 
+,INSTRUMENT,,,,img_0_grid_8_det_5.png,,aE, aE
+,INSTRUMENT,,,,img_0_grid_8_det_6.png,PZI tel 15,",
+
+_
+
+PEI
+
+l
+
+‘| o1i4
+
+:
+
+La","PZI tel 15 ,
+
+_
+
+PEI
+
+l
+
+‘| o1i4
+
+:
+
+La"
+,INSTRUMENT,,,,img_0_grid_8_det_8.png,H 0112 15,"im
+
+<¢ Cit2
+
+1S","H 0112 15 im
+
+<¢ Cit2
+
+1S"
+,INSTRUMENT,,,,img_0_grid_8_det_9.png,,"an
+
+LF
+
+."," an
+
+LF
+
+."
+,INSTRUMENT,,,,img_0_grid_8_det_0.png,PZT 14 15,"ares
+
+114
+
+Id","PZT 14 15 ares
+
+114
+
+Id"
+,INSTRUMENT,,,,img_0_grid_8_det_1.png,H 0112 15,"U1 te
+
+oy
+
+15","H 0112 15 U1 te
+
+oy
+
+15"
+,INSTRUMENT,,,,img_0_grid_8_det_3.png,16,,16 
+,INSTRUMENT,,,,img_0_grid_8_det_4.png,Hl'y 0112 15,"J
+
+ibr
+
+Ve
+
+?
+
+193
+
+i","Hl'y 0112 15 J
+
+ibr
+
+Ve
+
+?
+
+193
+
+i"
+,INSTRUMENT,,,,img_0_grid_8_det_5.png,,,
+,INSTRUMENT,,,,img_0_grid_8_det_7.png,PZI tEl 15,"jd
+
+J
+
+Pel
+
+J)“ “1
+
+L
+
+_
+
+|
+
+La","PZI tEl 15 jd
+
+J
+
+Pel
+
+J)“ “1
+
+L
+
+_
+
+|
+
+La"
+,INSTRUMENT,,,,img_0_grid_8_det_1.png,PZT 14 15,"|| {la
+
+re
+
+1","PZT 14 15 || {la
+
+re
+
+1"
+,INSTRUMENT,,,,img_0_grid_8_det_4.png,14 1 4 15,Cay er,14 1 4 15 Cay er
+,INSTRUMENT,,,,img_0_grid_8_det_5.png,HI'y 112 15,"rue
+
+E
+
+112
+
+19
+
+:","HI'y 112 15 rue
+
+E
+
+112
+
+19
+
+:"
+,INSTRUMENT,,,,img_0_grid_8_det_6.png,,mE, mE
+,INSTRUMENT,,,,img_0_grid_8_det_7.png,PZI 15,"i
+
+Fel
+
+Fee","PZI 15 i
+
+Fel
+
+Fee"
+,INSTRUMENT,,,,img_0_grid_9_det_7.png,,it, it
+,INSTRUMENT,,,,img_0_grid_9_det_8.png,5,"ey |
+
+AG all |
+
+co OT )COLLL","5 ey |
+
+AG all |
+
+co OT )COLLL"
+,INSTRUMENT,,,,img_0_grid_9_det_9.png,0117 15,"_
+
+(|
+
+| O447
+
+_
+
+15","0117 15 _
+
+(|
+
+| O447
+
+_
+
+15"
+,INSTRUMENT,,,,img_0_grid_9_det_10.png,JL 「 5,,JL 「 5 
+,INSTRUMENT,,,,img_0_grid_9_det_11.png,r 5 . C,,r 5 . C 
+,INSTRUMENT,,,,img_0_grid_9_det_2.png,0117 15,"HZV
+
+Cc","0117 15 HZV
+
+Cc"
+,INSTRUMENT,,,,img_0_grid_9_det_7.png,0117 15,"a
+
+Cd |
+
+“|| o147
+
+_
+
+13","0117 15 a
+
+Cd |
+
+“|| o147
+
+_
+
+13"
+,INSTRUMENT,,,,img_0_grid_9_det_8.png,20,"AG dll |
+
+co CTW ]CUOL","20 AG dll |
+
+co CTW ]CUOL"
+,INSTRUMENT,,,,img_0_grid_9_det_0.png,0117 15,Co,0117 15 Co
+,INSTRUMENT,,,,img_0_grid_9_det_3.png,T 0117 15,"(ary
+
+\ 15 ‘|","T 0117 15 (ary
+
+\ 15 ‘|"
+,INSTRUMENT,,,,img_0_grid_10_det_3.png,0110,"|
+
+uid
+
+4| ot","0110 |
+
+uid
+
+4| ot"
+,INSTRUMENT,,,,img_0_grid_10_det_4.png,P 1111 16,"|
+
+1d
+
+4
+
+“A","P 1111 16 |
+
+1d
+
+4
+
+“A"
+,INSTRUMENT,,,,img_0_grid_10_det_8.png,0116,"AT
+
+OI16
+
+mk
+
+al","0116 AT
+
+OI16
+
+mk
+
+al"
+,INSTRUMENT,,,,img_0_grid_10_det_11.png,,,
+,INSTRUMENT,,,,img_0_grid_10_det_12.png,P[ 0110 16,"| Pl
+
+- |a410
+
+} |) 16","P[ 0110 16 | Pl
+
+- |a410
+
+} |) 16"
+,INSTRUMENT,,,,img_0_grid_10_det_5.png,P 111 16,"al
+
+Tit","P 111 16 al
+
+Tit"
+,INSTRUMENT,,,,img_0_grid_10_det_7.png,0116,"AT
+
+DT16
+
+CI
+
+ve","0116 AT
+
+DT16
+
+CI
+
+ve"
+,INSTRUMENT,,,,img_0_grid_10_det_4.png,d 1111 16,,d 1111 16 
+,INSTRUMENT,,,,img_0_grid_10_det_7.png,0116,a),0116 a)
+,INSTRUMENT,,,,img_0_grid_10_det_8.png,0110 16,Ce),0110 16 Ce)
+,INSTRUMENT,,,,img_0_grid_11_det_2.png,P 0117,"ot
+
+0117","P 0117 ot
+
+0117"
+,INSTRUMENT,,,,img_0_grid_11_det_3.png,,tctk, tctk
+,INSTRUMENT,,,,img_0_grid_11_det_4.png,,,
+,INSTRUMENT,,,,img_0_grid_11_det_1.png,PI 01↑1 13,"Pl *
+
+O11
+
+IS","PI 01↑1 13 Pl *
+
+O11
+
+IS"
+,INSTRUMENT,,,,img_0_grid_11_det_2.png,5,"en
+
+lle
+
+a
+
+Dds
+
+I
+
+ie
+
+i:
+
+al","5 en
+
+lle
+
+a
+
+Dds
+
+I
+
+ie
+
+i:
+
+al"
+,INSTRUMENT,,,,img_0_grid_11_det_3.png,,otk, otk
+,INSTRUMENT,,,,img_0_grid_11_det_1.png,01↑1 13,"Pl *
+
+o1ft
+
+IS oy","01↑1 13 Pl *
+
+o1ft
+
+IS oy"
+,INSTRUMENT,,,,img_0_grid_11_det_2.png,5,"en
+
+Le
+
+a
+
+Dds
+
+I
+
+ie
+
+i:
+
+al","5 en
+
+Le
+
+a
+
+Dds
+
+I
+
+ie
+
+i:
+
+al"
+,INSTRUMENT,,,,img_0_grid_12_det_0.png,S,=,S =
+,INSTRUMENT,,,,img_0_grid_14_det_3.png,FlQ 0111 16,"rl
+
+Ui
+
+16","FlQ 0111 16 rl
+
+Ui
+
+16"
+,INSTRUMENT,,,,img_0_grid_14_det_4.png,UL 0,"U)*
+
+i 1","UL 0 U)*
+
+i 1"
+,INSTRUMENT,,,,img_0_grid_14_det_0.png,C4 0111 16,"oni ts
+
+16","C4 0111 16 oni ts
+
+16"
+,INSTRUMENT,,,,img_0_grid_14_det_2.png,FIC 011d 16,"| FIC
+
+E ve i","FIC 011d 16 | FIC
+
+E ve i"
+,INSTRUMENT,,,,img_0_grid_14_det_3.png,F1Q 0444,"ee
+
+“lair","F1Q 0444 ee
+
+“lair"
+,INSTRUMENT,,,,img_0_grid_14_det_1.png,FT 014 6,"Aa r%
+
+a)","FT 014 6 Aa r%
+
+a)"
+,INSTRUMENT,,,,img_0_grid_15_det_0.png,12 □,,12 □ 
+,INSTRUMENT,,,,img_0_grid_15_det_0.png,□,,□ 
